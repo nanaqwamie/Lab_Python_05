@@ -1,0 +1,21 @@
+#archibold_acheampong
+
+print 'Problem 1:'
+print 'a.'
+print '51'
+
+
+print 'b.'
+print '10'
+
+
+print 'c.'
+print '5'
+
+print 'd.'
+print '['one','two','three','four']'
+
+
+print 'e.'
+print '432'
+
